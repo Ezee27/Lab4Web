@@ -82,7 +82,7 @@ div {
 
 📸 *Hasil:* Tiga kotak sejajar secara horizontal.
 
-<img width="1208" height="295" alt="image" src="https://github.com/user-attachments/assets/bb19ff36-31b2-495c-ac0a-8ced95348db5" />
+<img width="755" height="219" alt="image" src="https://github.com/user-attachments/assets/38e1fa5c-5db8-4427-a2df-236bd73ea8e4" />
 
 
 ---
@@ -106,6 +106,8 @@ Tambahkan CSS:
 ```
 
 📸 *Hasil:* Div keempat muncul di bawah tiga box pertama.
+
+<img width="1208" height="295" alt="image" src="https://github.com/user-attachments/assets/bb19ff36-31b2-495c-ac0a-8ced95348db5" />
 
 ---
 
