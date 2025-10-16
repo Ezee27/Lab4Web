@@ -298,6 +298,8 @@ footer {
 
 📸 **Hasil:** Tampilan layout web sederhana dengan menu dan konten.
 
+<img width="1278" height="526" alt="image" src="https://github.com/user-attachments/assets/04282052-7890-45c4-89c7-0f31e1136963" />
+
 ---
 
 ### **6. Menambahkan Elemen di Main Content**
