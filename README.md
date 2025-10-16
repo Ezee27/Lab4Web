@@ -82,6 +82,9 @@ div {
 
 📸 *Hasil:* Tiga kotak sejajar secara horizontal.
 
+<img width="1208" height="295" alt="image" src="https://github.com/user-attachments/assets/bb19ff36-31b2-495c-ac0a-8ced95348db5" />
+
+
 ---
 
 ### **3. Mengatur Clearfix Element**
