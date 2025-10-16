@@ -1,6 +1,3 @@
-Oke 👍 berikut versi **README.md lengkap, halaman 36–48 + Pertanyaan & Tugas + Laporan Praktikum**,
-yang **sudah disertai penjelasan di setiap bagian kodenya** agar mudah kamu pahami dan cocok untuk laporan GitHub.
-
 ---
 
 # 🌐 Praktikum 4: CSS Layout
@@ -11,7 +8,6 @@ yang **sudah disertai penjelasan di setiap bagian kodenya** agar mudah kamu paha
 **NIM:** [Nomor Induk Mahasiswa]
 **Kelas:** TI.2A.A.4
 **Universitas:** Universitas Pelita Bangsa
-**Repository:** `Lab4Web`
 
 ---
 
@@ -103,6 +99,8 @@ div {
 
 📸 **Hasil:** Tiga kotak sejajar secara horizontal berwarna merah, kuning, dan hijau.
 
+<img width="755" height="219" alt="image" src="https://github.com/user-attachments/assets/38e1fa5c-5db8-4427-a2df-236bd73ea8e4" />
+
 ---
 
 ### **3. Menambahkan Clearfix**
@@ -129,6 +127,8 @@ Tambahkan CSS:
 * `float: none;` → Menonaktifkan efek melayang.
 
 📸 **Hasil:** Kotak keempat berwarna biru muncul di bawah tiga kotak lainnya.
+
+<img width="1208" height="295" alt="image" src="https://github.com/user-attachments/assets/bb19ff36-31b2-495c-ac0a-8ced95348db5" />
 
 ---
 
